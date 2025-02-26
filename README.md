@@ -1,2 +1,2 @@
 # PWII-Severino
-Programação Web 2 com o professor João Siles e Najara
+Programação Web 2 por João Siles e Najara
